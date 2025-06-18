@@ -78,3 +78,10 @@ fn take_picture(app: AppHandle) -> TakePictureResponse {
     response
 }
 ```
+
+## Building
+
+To build the javascript files, enter the project root and type: 
+```bash
+rollup -c
+```

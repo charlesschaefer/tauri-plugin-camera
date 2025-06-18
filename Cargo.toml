@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-camera"
-version = "0.1.3"
+version = "0.1.4"
 authors = [ "Charles Schaefer" ]
 description = "A Tauri plugin for accessing the camera on Android devices."
 repository = "https://github.com/charlesschaefer/tauri-plugin-camera"
